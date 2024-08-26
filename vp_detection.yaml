@@ -1,0 +1,7 @@
+
+train: D:\yolov9-gpu\projects\vehicle_pedestrian_detection\data\new_images\images\train
+val: D:\yolov9-gpu\projects\vehicle_pedestrian_detection\data\new_images\images\val
+test: D:\yolov9-gpu\projects\vehicle_pedestrian_detection\data\new_images\images\test
+
+# Class Names
+names: [Car,Van,Truck, Pedestrian, Person_sitting, Cyclist, Tram, Misc, DontCare]
